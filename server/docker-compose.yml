@@ -3,7 +3,7 @@ version: "3"
 services:
   my-jenkins:
     build: ""
-    image: brianantony456/my:0.0.1
+    image: brianantony456/my_jenkins:0.0.1
     ports:
       - 8080:8080
       - 50000:50000
