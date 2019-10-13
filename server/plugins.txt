@@ -28,3 +28,4 @@ command-launcher
 github-api
 plain-credentials
 jdk-tool
+ssh-slaves
